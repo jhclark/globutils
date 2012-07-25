@@ -12,4 +12,6 @@ Test it:
 scala -cp . -e 'println(globutils.Globs.globToRegex("h??i*"))'
 ```
 
+License: Do whatever you want with this code, but don't blame me for anything.
+
 Enjoy.
